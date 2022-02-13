@@ -21,7 +21,7 @@ Print the variable.
 End of the program.
 ## Program:
 ```
-#Program to to find the Exponentiation of a number.
+#Program to circulate the n variables using function concept
 #Developed by: S.Shafeeq Ahamed
 #RegisterNumber: 21500153
 def circulate():
