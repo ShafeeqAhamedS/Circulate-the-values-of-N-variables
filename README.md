@@ -21,6 +21,9 @@ Print the variable.
 End of the program.
 ## Program:
 ```
+#Program to to find the Exponentiation of a number.
+#Developed by: S.Shafeeq Ahamed
+#RegisterNumber: 21500153
 def circulate():
     l=[10,20,30,40,50,60]
     n=int(input())
